@@ -1,6 +1,6 @@
 # Hotel-Reservation-System
 A console based java application.
-The main feauture of the app is in it's simplicity.
+The main feauture of the app is in it's simplicity and use of core OOP feautures like Abstraction, Polymorphism, Encapsulation and Inheritance.
 
 The detailed description of parameters used are described below. One can modify it to suit their need.
 The hotel has three categories of rooms: Super Delux, Delux and Luxury. Only the Delux and Super Delux have wi-fi facility in the rooms. 
